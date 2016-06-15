@@ -1,0 +1,78 @@
+body {background: #dddddd;}
+
+footer {
+  height: 100px;
+  background: #bababa;
+  margin-top: 50px;
+  text-align: center;
+}
+
+
+nav.navbar ul.nav li {font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+nav.navbar {background-color: #cc5b5b;}
+
+.icono-school {font-size: 30px;}
+.title {
+  font-size: 20px;
+  color: #000000;
+}
+.glyphicon-blackboard{ color: #000000;}
+
+.jumbotron {
+  background-image: url(../images/fondo.jpg);
+  background-position: center;
+  height: 450px;
+}
+
+.jumbotron>.container>h1 {
+  margin-top: 200px;
+  color: #341212;
+}
+
+.jumbotron>.container>h2 {
+  margin: 0;
+  color: #413b3b;
+}
+
+.login-button {
+  margin-top: 20px;
+  float: right;
+}
+
+
+.title-teach {color: #959595;}
+.login-dialog {background: rgba(255, 255, 255, 0.9);}
+.mod-contorn {background: rgba(0, 0, 0, 0.41);}
+
+.login-header {
+  background: #6c1d1d;
+  text-align: center;
+  border-bottom: 0;
+  padding: 5px 10px;
+}
+
+.login-title {
+  color: #999da4;
+  font-size: 20px;
+  font-family: courier;
+  font-weight: bold;
+}
+
+.login-btn-close {
+  color: #ffffff;
+  margin: auto;
+}
+
+.login-form {
+  color: #0f0000;
+}
+
+.login-footer {
+  text-align: center;
+  border-top: 0;
+  padding-bottom: 20px;
+}
+
+.modal-dialog {
+  margin-top: 200px;
+}
